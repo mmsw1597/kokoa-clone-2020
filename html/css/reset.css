@@ -131,3 +131,11 @@ table {
 input:focus {
   outline: none;
 }
+
+.nav__link {
+  color: #2e363e;
+}
+
+a {
+  text-decoration: none;
+}
